@@ -1,0 +1,24 @@
+{
+  "name": "simpulse-rpi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthaksharma830/simpulse-rpi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthaksharma830/simpulse-rpi/issues"
+  },
+  "homepage": "https://github.com/sarthaksharma830/simpulse-rpi#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.0",
+    "mqtt": "^2.18.8"
+  }
+}
